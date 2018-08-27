@@ -1,8 +1,7 @@
-### `myitcv.io/remarkable`
+## `** myitcv.io/remarkable **` has moved
 
-```
-go get -u myitcv.io/remarkable
-```
+The repository hosting `myitcv.io/remarkable` has changed.
 
-Package remarkable provides an incomplete [GopherJS](https://github.com/gopherjs/gopherjs) wrapper for
-[remarkable](https://github.com/jonschlinkert/remarkable), a pure Javascript markdown parser
+`myitcv.io/remarkable` can now be found at:
+
+https://github.com/myitcv/x/tree/master/remarkable
